@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE incubus_script>
+<incubus_script name="play begin">
+	<add_object>
+		<type value="human"/>
+		<player value="yes"/>
+	</add_object>
+</incubus_script>
